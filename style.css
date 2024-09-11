@@ -1,0 +1,17 @@
+.left-side{
+    background-color: #1F3751;
+    color: aliceblue;
+
+
+}
+
+.image{
+    width: 350vh;
+    height: 35vh;
+    border: 2px solid white;
+
+}
+
+.bold{
+    font-weight: bold;
+}
